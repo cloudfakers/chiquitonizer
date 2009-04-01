@@ -1,3 +1,8 @@
 #!/bin/bash
 
-alias sshr='ssh'
+echo "# Chiquitonizer aliases!" >> ~/.bashrc
+echo "alias sshr='ssh'" >> ~/.bashrc
+
+echo "Chiquitonizer running!!"
+
+bash
